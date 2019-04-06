@@ -1,0 +1,6 @@
+*.class
+*.log
+*.txt
+!servernames.txt
+temp/
+*.tmp
